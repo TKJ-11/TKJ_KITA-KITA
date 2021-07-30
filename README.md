@@ -5,12 +5,12 @@ Website Resmi dari TKJ_KITA-KITA. Dibuat karena gabut dan Tempat Donwload Softwa
 
 ### Punya Masalah dengan file nya? korup file? Drive terkena limit?
 <img src=https://user-images.githubusercontent.com/87884544/127313086-fb4d7e16-375f-4166-b72a-5ff1cbccdc5d.png
- width="2096" height="23"/>
+ width="620" height="23"/>
 > Tenang Admin tidak akan memperbaiki nya kecuali lagi gabut atau ada waktu kosong :)
 
 ### Link Donwload
 <img src=https://user-images.githubusercontent.com/87884544/127314405-3c8f5980-37be-4dd7-b72c-2279dbddb0b1.png
- width="2096" height="23"/>
+ width="160" height="23"/>
 
 - Microsoft Office
 > https://drive.google.com/drive/folders/1t6TYewPGXcq7uYqnFNOuGqGgmZmt5ol9?usp=sharing
@@ -30,13 +30,11 @@ Website Resmi dari TKJ_KITA-KITA. Dibuat karena gabut dan Tempat Donwload Softwa
 - Software Untuk File Archives
 > https://drive.google.com/drive/folders/15Exa9sYL6fF5JlGAg2P7Ps8K1p7eI5rZ?usp=sharing
 
+- Software Crocodile
+> https://drive.google.com/drive/folders/1rXpK3N32yU5POxMi-FCwOqpoWKsHyjg4?usp=sharing
+
 - Untuk Umum
 > https://drive.google.com/drive/folders/11u7ohop1kCrFH0WF9BqwwPMdkrHJKsRR?usp=sharing
-
-<img src=https://user-images.githubusercontent.com/87884544/126892995-de03b1ac-c68d-4924-be29-0c8e66cc8344.jpeg
- width="135" height="40"/>
-
-![images](https://user-images.githubusercontent.com/87884544/126892995-de03b1ac-c68d-4924-be29-0c8e66cc8344.jpeg)
 
 
 
