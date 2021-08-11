@@ -33,6 +33,12 @@ Website Resmi dari TKJ_KITA-KITA. Dibuat karena gabut dan Tempat Donwload Softwa
 - Software Crocodile
 > https://drive.google.com/drive/folders/1rXpK3N32yU5POxMi-FCwOqpoWKsHyjg4?usp=sharing
 
+- Software VMware
+> https://drive.google.com/drive/folders/1Rttttgp89oZGfwV1Of6tyOH_XWTgsEKd?usp=sharing
+
+- Software Cisco Packet Tracer
+> https://drive.google.com/drive/folders/1vi2pzqfVkC9yB5hV_bJc5zoy8YfZgHjR?usp=sharing
+
 - Untuk Umum
 > https://drive.google.com/drive/folders/11u7ohop1kCrFH0WF9BqwwPMdkrHJKsRR?usp=sharing
 
