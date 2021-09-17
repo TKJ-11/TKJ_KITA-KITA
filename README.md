@@ -3,10 +3,6 @@
  width="2096" height="23"/>
 Website Resmi dari TKJ_KITA-KITA. Dibuat karena gabut dan Tempat Donwload Software yang diperlukan di Sekolah serta biar keren aja. Untuk saat ini belum bisa membuat web yang menarik dikarenakan belum ada waktu kosong
 
-### Punya Masalah dengan file nya? korup file? Drive terkena limit?
-<img src=https://user-images.githubusercontent.com/87884544/127313086-fb4d7e16-375f-4166-b72a-5ff1cbccdc5d.png
- width="620" height="23"/>
-> Tenang Admin tidak akan memperbaiki nya kecuali lagi gabut atau ada waktu kosong :)
 
 ### Link Donwload
 <img src=https://user-images.githubusercontent.com/87884544/127314405-3c8f5980-37be-4dd7-b72c-2279dbddb0b1.png
